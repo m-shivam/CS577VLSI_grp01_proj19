@@ -3,3 +3,7 @@
 ### Top_function: _ntt_
 Various HLS directives are utilized to optimize the performance.
 The uploaded directory contains _Project_ _files_, _Project_ _report_ and Vivado generated _synthesis_ and _co-simulation_ report.
+
+
+#### CHECK '*RESULTS*' DIRECTORY
+This directory contains Vivado generated reports for both __base version__ and **optimized version**.
